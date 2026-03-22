@@ -1121,7 +1121,7 @@ elif menu == "Game":
             },
             {
                 "question": "9. What ____ you ____ (do)?",
-                "answer": "are doing"
+                "answer": "are / doing"
             },
             {
                 "question": "10. She ____ (talk) to her friend on the phone.",
